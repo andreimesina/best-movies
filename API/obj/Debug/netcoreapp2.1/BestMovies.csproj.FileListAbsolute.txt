@@ -1,0 +1,69 @@
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/BestMovies.deps.json
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/BestMovies.runtimeconfig.json
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/BestMovies.runtimeconfig.dev.json
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/BestMovies.dll
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/bin/Debug/netcoreapp2.1/BestMovies.pdb
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/obj/Debug/netcoreapp2.1/BestMovies.RazorAssemblyInfo.cache
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/obj/Debug/netcoreapp2.1/BestMovies.RazorAssemblyInfo.cs
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/obj/Debug/netcoreapp2.1/BestMovies.AssemblyInfoInputs.cache
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/obj/Debug/netcoreapp2.1/BestMovies.AssemblyInfo.cs
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/obj/Debug/netcoreapp2.1/BestMovies.RazorTargetAssemblyInfo.cache
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/obj/Debug/netcoreapp2.1/BestMovies.dll
+/Users/andreimesina/VisualStudioProjects/Nr. 4 - Best Movies/BestMovies/obj/Debug/netcoreapp2.1/BestMovies.pdb
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.deps.json
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.runtimeconfig.json
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.runtimeconfig.dev.json
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.dll
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.pdb
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorAssemblyInfo.cache
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorAssemblyInfo.cs
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.AssemblyInfoInputs.cache
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.AssemblyInfo.cs
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorTargetAssemblyInfo.cache
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.dll
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.pdb
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.genruntimeconfig.cache
+C:\Users\alina\Desktop\FMI\mds\Nr. 5 - Best Movies fara Controllers\Nr. 5 - Best Movies fara Controllers\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.csproj.CoreCompileInputs.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.deps.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.runtimeconfig.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.runtimeconfig.dev.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.dll
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.pdb
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.csproj.CoreCompileInputs.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorAssemblyInfo.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorAssemblyInfo.cs
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.AssemblyInfoInputs.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.AssemblyInfo.cs
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorTargetAssemblyInfo.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.dll
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.pdb
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.genruntimeconfig.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 8 - Best Movies cu toate Controllers standard\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.csprojAssemblyReference.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.deps.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.runtimeconfig.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.runtimeconfig.dev.json
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.dll
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\bin\Debug\netcoreapp2.1\BestMovies.pdb
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.csprojAssemblyReference.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.csproj.CoreCompileInputs.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorAssemblyInfo.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorAssemblyInfo.cs
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.AssemblyInfoInputs.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.AssemblyInfo.cs
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.RazorTargetAssemblyInfo.cache
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.dll
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.pdb
+D:\Andrei\Coding\Microsoft Visual Studio\2019\workspace\Nr. 9 - Best Movies back-end final\BestMovies\obj\Debug\netcoreapp2.1\BestMovies.genruntimeconfig.cache

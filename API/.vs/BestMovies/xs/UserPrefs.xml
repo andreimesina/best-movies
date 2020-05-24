@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{82298BE2-3B75-4B2A-9C9D-B5696425FB1E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.Development.json">
+    <Files>
+      <File FileName="Startup.cs" Line="35" Column="1" />
+      <File FileName="Repositories/ActorRepository/ActorRepository.cs" />
+      <File FileName="Models/Genre.cs" Line="1" Column="1" />
+      <File FileName="Controllers/MovieCompanyController.cs" Line="2" Column="1" />
+      <File FileName="Controllers/CompanyController.cs" Line="66" Column="10" />
+      <File FileName="Controllers/GenreController.cs" Line="40" Column="1" />
+      <File FileName="Controllers/ActorController.cs" Line="54" Column="1" />
+      <File FileName="Repositories/ActorRepository/IActorRepository.cs" Line="9" Column="12" />
+      <File FileName="Models/Company.cs" Line="1" Column="1" />
+      <File FileName="Models/Movie.cs" Line="1" Column="1" />
+      <File FileName="Models/Actor.cs" Line="1" Column="1" />
+      <File FileName="Models/MovieActor.cs" Line="1" Column="1" />
+      <File FileName="Models/MovieCompany.cs" Line="1" Column="1" />
+      <File FileName="Repositories/MovieActorRepository/IMovieActorRepository.cs" Line="1" Column="1" />
+      <File FileName="Repositories/MovieActorRepository/MovieActorRepository.cs" Line="1" Column="1" />
+      <File FileName="Repositories/MovieGenreRepository/MovieGenreRepository.cs" Line="1" Column="1" />
+      <File FileName="DTOs/MovieGenreDTO.cs" Line="1" Column="1" />
+      <File FileName="DTOs/MovieActorDTO.cs" Line="1" Column="1" />
+      <File FileName="Contexts/Context.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BestMovies" expanded="True">
+            <Node name="BestMovies" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="ActorRepository" expanded="True" />
+                <Node name="CompanyRepository" expanded="True" />
+                <Node name="GenreRepository" expanded="True" />
+                <Node name="MovieActorRepository" expanded="True" />
+                <Node name="MovieCompanyRepository" expanded="True" />
+                <Node name="MovieGenreRepository" expanded="True" />
+                <Node name="MovieRepository" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BestMovies PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
