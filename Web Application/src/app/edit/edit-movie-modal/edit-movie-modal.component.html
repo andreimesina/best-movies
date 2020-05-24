@@ -1,0 +1,35 @@
+<div bsModal class=" row modal fade" #editMovieModal="bs-modal" tabindex="-1" role="dialog" aria-labelledby="editMovieModal"
+     aria-hidden="true" (onHide)=" this.editMovieForm.reset();">
+  <div class="col-md-6 col-sm-6 col-lg-4 mx-auto my-4" *ngIf="editMovieForm">
+
+    <form class="text-center border border-light p-5" [formGroup]="editMovieForm">
+
+      <p class="h4 mb-4">Edit Movie</p>
+
+      <label for="title">Title</label>
+      <input type="text"  id="title" class="form-control mb-4" formControlName="title" autocomplete="off" >
+
+      <label for="releaseDate" >ReleaseDate</label>
+      <input type="text" id="releaseDate" class="form-control mb-4" formControlName="releaseDate" autocomplete="off" >
+
+      <label for="runtime">Runtime</label>
+      <input type="number" id="runtime"  class="form-control mb-4" formControlName="runtime" autocomplete="off" >
+
+      <label for="vote">Add a vote </label>
+      <input type="text" id="vote" class="form-control mb-4" formControlName="vote" autocomplete="off" >
+
+      <label for="artistId">Add artist IDs *</label>
+      <input type="text" id="artistId" class="form-control mb-4" placeholder='Artist ID 1, Artist ID 2' formControlName="artistId" autocomplete="off" >
+
+      <label for="companyId">Company ID *</label>
+      <input type="text" id="companyId" class="form-control mb-4" placeholder='Company ID' formControlName="companyId" autocomplete="off" >
+
+      <label for="genreId">Genre ID *</label>
+      <input type="text" id="genreId" class="form-control mb-4" placeholder='Genre ID 1, Genre ID 2' formControlName="genreId" autocomplete="off" >
+
+      <button mdbBtn color="danger" block="true" class="my-4"  [disabled]="!this.editMovieForm.valid || this.editMovieForm.pristine" (click)='editMovie()'>Edit</button>
+
+    </form>
+
+  </div>
+</div>

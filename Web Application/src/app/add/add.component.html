@@ -1,0 +1,53 @@
+<h1>Add page</h1>
+<div class="container">
+
+<div id="text">
+  <p style="display: inline; margin-right: 10px; ">Add new</p>
+  <div *ngFor="let option of options" style="display: inline; margin-left:10px; ">
+       <input type="radio" name="option" [value]="option" (change)="radioChange($event)" [checked]="selectedOption == option"><i>{{option}}</i>
+  </div>
+</div>
+
+<div class="form-container border ">
+
+      <form class="text-center  " [formGroup]="addMovieForm"  *ngIf="selectedOption === 'Movie'">
+
+      <input type="text"  class="form-control mb-4" placeholder="Title" formControlName="title"
+            autocomplete="off" >
+      
+      <input type="number"  class="form-control mb-4" placeholder="ReleaseDate" formControlName="releaseDate"
+            autocomplete="off" >
+      
+      <input type="number"  class="form-control mb-4" placeholder="Runtime" formControlName="runtime"
+            autocomplete="off" >
+      
+      <input type="text"  class="form-control mb-4" placeholder="Actor ID 1, Actor ID 2" formControlName="actorId"
+            autocomplete="off" >
+
+      <input type="text"  class="form-control mb-4" placeholder="Company ID 1, Company ID 2" formControlName="companyId"
+      autocomplete="off" >
+      
+      <input type="text"  class="form-control mb-4" placeholder="Genre ID 1, Genre ID 2" formControlName="genreId"
+      autocomplete="off" >
+
+      </form>
+
+  <form class="text-center " [formGroup]="addCompanyForm"  *ngIf="selectedOption === 'Company'">
+
+    <input type="text"  class="form-control mb-4" placeholder="Name" formControlName="name"
+       autocomplete="off"   >
+
+  </form>
+
+  <form class="text-center  " [formGroup]="addActorForm" *ngIf="selectedOption === 'Actor'">
+
+    <input type="text"  class="form-control mb-4" placeholder="Name" formControlName="name"
+         autocomplete="off" >
+
+  </form>
+
+  <button mdbBtn color="danger" block="true"  type="submit" (click)="add()" [disabled]="currentFormRef.invalid" >Add</button>
+    <p *ngIf="success" style="color: green; font-size: 22px;">{{selectedOption.toUpperCase()}} added successfully</p>
+    <p *ngIf="success === false" style="color: red; font-size: 22px;">Something went wrong</p>
+</div>
+</div>
